@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="schema">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/aula-2022-09-09/exercicio-01/exercicio01/.idea/dataSources/3e853be8-f4f6-4ce9-957d-56c66988187f/storage_v2/_src_/schema/sakila.oXLGyQ.zip!/" />
+      <root url="jar://$PROJECT_DIR$/aula-2022-09-09/exercicio-01/exercicio01/.idea/dataSources/3e853be8-f4f6-4ce9-957d-56c66988187f/storage_v2/_src_/schema/information_schema.FNRwLQ.zip!/" />
+      <root url="jar://$PROJECT_DIR$/aula-2022-09-09/exercicio-01/exercicio01/.idea/dataSources/3e853be8-f4f6-4ce9-957d-56c66988187f/storage_v2/_src_/schema/sys.zb4BAA.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
